@@ -1,2 +1,2 @@
 # Beauty_soupy
-This is a repo for opinion mining using beautiful soup 
+This repo involves the usage of the Python Library: Beautiful soup for pulling data out of an HTML file.
